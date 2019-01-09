@@ -1,5 +1,3 @@
-// By Aman Jain(jainaman224)
-// 24/1/16
 
 #include <iostream>
 #include <cstdlib>

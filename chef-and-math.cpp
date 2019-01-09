@@ -1,5 +1,4 @@
-// By Aman Jain(jainaman224)
-// 13/5/16
+
 
 #include <iostream>
 

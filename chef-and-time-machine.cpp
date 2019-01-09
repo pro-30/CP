@@ -1,5 +1,3 @@
-// By Aman Jain(jainaman224)
-// 2/1/15
 
 #include <iostream>
 #include <set>

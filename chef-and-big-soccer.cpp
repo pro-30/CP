@@ -1,5 +1,4 @@
-// By Aman Jain(jainaman224)
-// 11/5/16
+
 
 #include <iostream>
 #define x 1000000007

@@ -1,5 +1,3 @@
-// By Aman Jain(jainaman224)
-// 7/3/16
 
 #include <iostream>
 #include <string>

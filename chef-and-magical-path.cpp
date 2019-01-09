@@ -1,5 +1,4 @@
-// Aman Jain (jainaman224)
-// 1/4/16
+
 
 #include <iostream>
 #include <cstdio>
